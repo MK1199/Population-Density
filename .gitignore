@@ -1,0 +1,4 @@
+*.tif
+.env
+cache/
+.md
